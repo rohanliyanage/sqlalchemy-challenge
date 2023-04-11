@@ -12,9 +12,8 @@ b) Station Analysis
 
 Part 2. Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
-Use Flask to create routes. 
 
-List all routes that are available.
+Use Flask to create routes. 
 
 /api/v1.0/precipitation
 
